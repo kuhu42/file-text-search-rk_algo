@@ -8,3 +8,10 @@ The features of this project include:
 * **Accurate Results:** The project employs the Rabin-Karp algorithm, which ensures accurate matching of search queries with text content, minimizing false positives.
 * **Customisable Search Parameters:** Users can customise search parameters such as case sensitivity, whole word matching, and search within specific directories or file types.
 
+## Work Flow
+![1](https://github.com/kuhu42/file-text-search-rk_algo/assets/143384804/1e3c486f-3032-4c4a-a6e8-fc0c40ecc1f7)
+![2](https://github.com/kuhu42/file-text-search-rk_algo/assets/143384804/49166754-ed8b-4857-b954-06d82ebf3405)
+![3](https://github.com/kuhu42/file-text-search-rk_algo/assets/143384804/34efa6d2-0ac4-4412-b313-1b33187892b6)
+![4](https://github.com/kuhu42/file-text-search-rk_algo/assets/143384804/98fd855a-d024-47c7-b1a3-092b306eb8af)
+
+## Output
