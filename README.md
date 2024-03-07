@@ -15,3 +15,8 @@ The features of this project include:
 ![4](https://github.com/kuhu42/file-text-search-rk_algo/assets/143384804/98fd855a-d024-47c7-b1a3-092b306eb8af)
 
 ## Output
+### Input
+![WhatsApp Image 2024-03-01 at 10 56 47](https://github.com/kuhu42/file-text-search-rk_algo/assets/143384804/52a3e62d-68de-4015-a0db-622d301cf2ad)
+
+### Output
+![WhatsApp Image 2024-03-02 at 16 32 00](https://github.com/kuhu42/file-text-search-rk_algo/assets/143384804/b7d30158-e009-43bc-b9ff-7f25d4b9659d)
